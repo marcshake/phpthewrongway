@@ -1,12 +1,14 @@
-# Following the PHP-FIG standards religiously #
+# Religiös den PHP-FIG standards folgen #
 
-The FIG stands for "Framework Interoperability Group".
+Das FIG steht für Gruppe für „Interoperabilität in Rahmenkonzepten” (Framework Interoperability Group) 
 
-The [PHP-FIG](http://www.php-fig.org/) was created by a number of framework developers at php|tek in 2009. Since then various other members have applied and been voted in, increasing the size of the group from the first 5 to over 20.
+Die [PHP-FIG](http://www.php-fig.org/) wurde 2009 von einer Reihe von Framework-Entwicklern auf der php|tek erstellt. Seitdem haben sich verschiedene weitere Mitglieder beworben und wurden gewählt, sodass die Gruppe von ursprünglich 5 Mitgliedern auf über 20 angewachsen ist.
 
-A lot of controversy exists regarding the PHP-FIG. Some people consider the PHP-FIG the best thing that has happened to the PHP community since PHP itself while others considers the group as something best to be forgotten.
+Um die PHP-FIG existieren viele Kontroversen. Einige Menschen bezeichnen die PHP-FIG als das beste, was der PHP-Gemeinschaft seit PHP selbst je passiert ist, während andere meinen, dass man diese Gruppe am Besten vergessen sollte.
 
-One of the problems with PHP-FIG is that it presents itself like this in their [FAQ](http://www.php-fig.org/faqs/):
+Eines der Probleme mit der PHP-FIG ist, dass es sich selbst wie in den [Häufig gestellten Fragen](http://www.php-fig.org/faqs/) präsentiert:
+
+> Die Idee hinter der Gruppe 
 
 > The idea behind the group is for project representatives to talk about the commonalities between our projects and find ways we can work together. Our main audience is each other, but we’re very aware that the rest of the PHP community is watching. If other folks want to adopt what we’re doing they are welcome to do so, but that is not the aim. Nobody in the group wants to tell you, as a programmer, how to build your application.
 
